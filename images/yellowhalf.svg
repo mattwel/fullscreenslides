@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="113px" height="224px" viewBox="0 0 113 224" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>yellowhalf</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="yellowhalf" transform="translate(1.000000, 1.000000)" stroke="#FFFFFF" fill="#FFCE00">
+            <path d="M111.125,111.125 L45.807,21.223 C65.668,6.793 86.576,0 111.125,0 L111.125,111.125 Z" id="Fill-1" opacity="0.3"></path>
+            <path d="M111.125,111.125 L5.439,76.785 C13.025,53.438 25.947,35.653 45.807,21.223 L111.125,111.125 Z" id="Fill-3" opacity="0.5"></path>
+            <path d="M111.125,111.125 L111.125,222.25 C49.752,222.25 0,172.498 0,111.125 C0,98.85 1.646,88.459 5.439,76.785 L111.125,111.125 Z" id="Fill-5" opacity="0.65"></path>
+        </g>
+    </g>
+</svg>
